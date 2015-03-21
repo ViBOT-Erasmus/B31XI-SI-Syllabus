@@ -28,7 +28,7 @@ To provide a critical and practical understanding of the principle theories and 
 
 * Lecture sessions
 * Practise sessions
- 1. Features normalisation
+ 1. [Features normalisation](https://github.com/ViBOT-Erasmus/B31XI-SI-Features-Normalisation)
  1. Features selection
  1. Features extraction
  1. Clustering
