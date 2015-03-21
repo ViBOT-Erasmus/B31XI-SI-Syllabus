@@ -1,10 +1,9 @@
 # B31XI - Scene Segmentation and Interpretation Syllabus
 
-Table of contents:
-
-* [Information about the module](#Information-about-the-module)
-* [Course description](#Course-description)
-* [Course outline](#Course-outline)
+**Table of Contents** 
+- [Information about the module](#)
+- [Course description](#)
+- [Course outline](#)
 
 ## Information about the module
 
