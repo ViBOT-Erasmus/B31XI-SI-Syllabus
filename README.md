@@ -12,7 +12,7 @@ Table of contents:
 
 ### MsCV - Universite de Bourgogne
 
-* **Instructors:** Fabrice Meriaudeau, Guillaume Lemaitre, Joan Massich,
+* **Instructors:** Fabrice Meriaudeau, Robert Marti, Guillaume Lemaitre, Joan Massich,
 * **Contact:** [Contact email](mailto:g.lemaitre58@gmail.com) for personal queries.
 
 ## Course description
