@@ -2,9 +2,9 @@
 
 Table of contents:
 
-* [Information about the module](#Information about the module)
-* [Course description](#Course description)
-* [Course outline](#Course outline)
+* [Information about the module](#Information-about-the-module)
+* [Course description](#Course-description)
+* [Course outline](#Course-outline)
 
 ## Information about the module
 
