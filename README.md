@@ -21,13 +21,17 @@ To provide a critical and practical understanding of the principle theories and 
 
 ### ViBOT
 
-#### Lecture sessions
-
-#### Practise sessions
+* Lecture sessions
+* Practise sessions
 
 ### MsCV
 
-#### Lecture sessions
-
-#### Practise sessions
+* Lecture sessions
+* Practise sessions
+ 1. Features normalisation
+ 1. Features selection
+ 1. Features extraction
+ 1. Clustering
+ 1. Probabilistic classifiers
+ 1. Ensemble learning
 
