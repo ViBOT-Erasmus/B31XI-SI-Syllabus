@@ -34,7 +34,7 @@ To provide a critical and practical understanding of the principle theories and 
  1. [Features extraction](https://github.com/ViBOT-Erasmus/B31XI-SI-Features-Extraction)
  1. [Clustering](https://github.com/glemaitre/B31XI-SI-Clustering)
  1. [Probabilistic classifiers](https://github.com/ViBOT-Erasmus/B31XI-SI-Probabilistic-Classifiers)
- 1. Ensemble learning
+ 1. [Ensemble classifiers](https://github.com/ViBOT-Erasmus/B31XI-SI-Ensemble-Classifiers)
 
 ## Additional material
 
