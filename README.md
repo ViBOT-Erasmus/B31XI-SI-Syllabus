@@ -31,7 +31,7 @@ To provide a critical and practical understanding of the principle theories and 
 * Practise sessions
  1. [Features normalisation](https://github.com/ViBOT-Erasmus/B31XI-SI-Features-Normalisation)
  1. [Features selection](https://github.com/ViBOT-Erasmus/B31XI-SI-Features-Selection)
- 1. Features extraction
+ 1. [Features extraction](https://github.com/ViBOT-Erasmus/B31XI-SI-Features-Extraction)
  1. Clustering
  1. Probabilistic classifiers
  1. Ensemble learning
