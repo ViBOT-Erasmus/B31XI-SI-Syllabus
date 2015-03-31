@@ -46,3 +46,5 @@ Supplement material can be found in the following wonderful books:
 * [*Pattern Recognition*, S. Theodoridis and K. Koutroumbas](http://www.manalhelal.com/Books/F2014/Pattern%20Recognition_2003.pdf),
 * [*Pattern Recognition*, R.O. Duda and P.E. Hart and D.G. Stork](http://cns-classes.bu.edu/cn550/Readings/duda-etal-00.pdf),
 * [*Pattern Recognition and Machine Learning*, C.M. Bishop](http://www.rmki.kfki.hu/~banmi/elte/Bishop%20-%20Pattern%20Recognition%20and%20Machine%20Learning.pdf).
+
+The following [guides](https://guides.github.com/) can be useful to use git and github.
