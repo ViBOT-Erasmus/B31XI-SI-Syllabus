@@ -18,6 +18,9 @@
 
 To provide a critical and practical understanding of the principle theories and concepts of scene analysis, from image segmentation, classification to scene description.
 
+The following framework will be studied through the module:
+![Alt text](./readme-images/pr-framework.png)
+
 ## Course outline
 
 ### ViBOT
