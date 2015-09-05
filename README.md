@@ -39,6 +39,19 @@ The following framework will be studied through the module:
  1. [Probabilistic classifiers](https://github.com/ViBOT-Erasmus/B31XI-SI-Probabilistic-Classifiers)
  1. [Ensemble classifiers](https://github.com/ViBOT-Erasmus/B31XI-SI-Ensemble-Classifiers)
 
+## Software prerequisite
+
+The practises are using Python. We advise you to use the Anaconda bundle. Download Anaconda [here](http://continuum.io/downloads) and follow the instructions.
+Furthermore, you will need to install the following packages for the practise:
+
+* pip - `conda install pip`
+* ipython notebook - `conda install ipython-notebook`
+* scikit-learn - `conda install scikit-learn`
+* scikit-image - `conda install scikit-image`
+* scikit-fuzzy - `pip install -U scikit-fuzzy`
+* mpld3 - `pip install mpld3`
+* plotly - `pip install plotly`
+
 ## Additional material
 
 Supplement material can be found in the following wonderful books:
